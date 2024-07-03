@@ -22,4 +22,4 @@ gestionar la autenticación de usuarios.
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone <url-del-repositorio>
+   git clone https://github.com/impacevanend/inventario_MV.git
